@@ -50,6 +50,7 @@ Procfile
 
 `eb open`
 
-[My API LInk here ](http://product-list.eba-bppafw3c.us-east-2.elasticbeanstalk.com/products)
+[My API url here ](http://product-list.eba-bppafw3c.us-east-2.elasticbeanstalk.com/products)
 
 Happy Hacking!!!
+
